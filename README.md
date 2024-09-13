@@ -23,4 +23,4 @@ I set up the API to update my video descriptions every 10 minutes with the lates
 Check out my YouTube channel where this API is actively in use: [@KailyHere](https://youtube.com/@KailyHere)
 
 #### Demo Video
-Watch the video explaining the project: [Link to Demo Video](https://www.youtube.com/watch?v=COSsRwZ_QCw)
+Watch this video description: [Link to Demo Video](https://www.youtube.com/watch?v=COSsRwZ_QCw)
